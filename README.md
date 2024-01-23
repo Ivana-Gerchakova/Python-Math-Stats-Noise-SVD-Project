@@ -14,6 +14,6 @@ and then utilizing low-rank approximation of a matrix to construct improved appr
 - **Singular Value Decomposition (SVD):** The core technique used for noise reduction is SVD, a matrix factorization method that decomposes a matrix into three lower-dimensional matrices.
 
 - **Low-Rank Approximation:** Through SVD, low-rank approximations of the original matrix are computed, offering a more robust representation of the underlying patterns while mitigating the impact of added noise.
-- 
+
 ## Project Preview :
 <img src="Images/SVD.png">
